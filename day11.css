@@ -1,0 +1,12 @@
+.my-container{
+    background-color: white;
+}
+
+.row-1{
+    background-color: rgb(31, 34, 224);
+}
+
+.block{
+    background-color: palegreen;
+    height: 150px;
+}
